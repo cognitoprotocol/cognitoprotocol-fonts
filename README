@@ -1,5 +1,3 @@
-# cognitoprotocol-fonts
-
                          Computer Modern Unicode fonts
 
    Computer Modern Unicode fonts were converted from metafont sources
@@ -22,12 +20,12 @@
    Of cause, this version has many unresolved questions and bugs. If you
    have found any bug inform me by e-mail.
    
-# Acknowledgements
+Acknowledgements
    
    Thanks to George Williams the author of the fontforge for his
    responsiveness in fixing bugs and adding new features.
 
-# References
+References
 
    1. http://lilypond.org/mftrace/
    2. http://fontforge.sf.net/
